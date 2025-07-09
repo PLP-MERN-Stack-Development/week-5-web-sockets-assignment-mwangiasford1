@@ -1,3 +1,4 @@
+localhost/:1  Uncaught (in promise) SyntaxError: Unexpected token '<', "<!DOCTYPE "... is not valid JSON
 tests:
   - name: Check if server.js exists
     run: test -f server/server.js
